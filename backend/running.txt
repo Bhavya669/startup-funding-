@@ -1,0 +1,2 @@
+run command for backend:uvicorn app:app --reload
+frontend : npm start
